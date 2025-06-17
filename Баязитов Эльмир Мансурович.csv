@@ -1,4 +1,4 @@
-,distance_from_home,distance_from_last_transaction,ratio_to_median_purchase_price,repeat_retailer,used_chip,used_pin_number,online_order,fraud
+№,distance_from_home,distance_from_last_transaction,ratio_to_median_purchase_price,repeat_retailer,used_chip,used_pin_number,online_order,fraud
 499494,32.08013741643625,2.2128215723305127,0.8288350386873047,1.0,1.0,0.0,1.0,0.0
 455967,20.067446747492323,3.9726233706546346,0.5900372130502669,1.0,1.0,0.0,1.0,0.0
 369329,5.353926522923743,0.4437413952483791,0.2233776508779986,1.0,0.0,0.0,1.0,0.0
